@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1wYc2lPrj4oj6l_D-9WBlzV8SzFABlZwW/view?usp=drive_link"  />
+<img align="right" height="150" href="https://drive.google.com/file/d/1wYc2lPrj4oj6l_D-9WBlzV8SzFABlZwW/view?usp=drive_link"  />
 
 ###
 
@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="href="mailto:sharvuukumar@gmail.com" target="_blank">
+  <a href="mailto:sharvuukumar@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sarwan-kumar-024269239" target="_blank">
